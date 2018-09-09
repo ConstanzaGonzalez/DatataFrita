@@ -1,0 +1,35 @@
+storage/color/evento/modelo vs region/pais/ciudad/general
+top sistema operativo
+top  de regiones/ciudad/pais con los distintos tipos de skus
+relación con modelo y color
+colores mas usados/vendido
+time line con el color
+las condicion del producto
+relación de evento con modelo (ej: hay mas motoras vendidos que comprados) 
+evento vs operating system version/browser version
+cuantos usuarios reutilzaron la pagina(nuevos eventos)
+nuevos usuarios  dia/region/pais/ciudad
+si los nuevos usuarios se registraron por una campaña de marketing 
+uso promedio de la pagina (tiempos de eventos)
+search term mas usados
+si la compra se origina por una campaña de marketing
+donde se realiza mas los evento
+cantidad del estado del producto
+donde se utiliza mas las plataforma
+hora pico del uso de la pagina semanalmente.
+fechas de uso, si tienen que ver con algún tipo de  evento importante
+
+cuantas condiciones de ventas hay, cuantas de cada tipo
+relacion con modelo y color 
+(colores mas usados/vendido), 
+liena de tiempo del color mas usado
+color/modelo/evento vs pais/region/ciudad
+la cantidad de clientes repetidas, si este vuelve a comprar
+relacion evento con modelo (eje hay mas motorolas vendidos que comprados)
+evento y campaña de maketing. ver si el evento se realizo por alguna campaña de marketing
+ver la cantidad de usuraios nuevos por dia
+relacion browser con modelo
+evento vs operating system version/browser version
+terminos de buscas 
+termino de busqueda vs skus
+termino de busqueda segun las ciudad/region/pais
