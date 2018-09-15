@@ -26,3 +26,18 @@ Busqueda de datos
 - La cantidad de clientes repetidas, si este vuelve a comprar
 - Relacion evento con modelo (eje hay mas motorolas vendidos/vistos que comprados)
 - Relacion browser con modelo (Pensar bien el ejemplo)
+
+(Tomy)
+- Analisis sobre publicidades
+ - /vender (sólo Brasil)
+  - Qué es lo que más venden
+  - Analizar usuarios que venden (qué modelos, cuanto, etc.)
+ - /comprar
+  - Qué modelos son más interesantes
+  - Si se tiene el timestamp, analizar la relación entre el tiempo en el que salió el nuevo modelo y la cantidad de gente/cuanto tardan en clickearlo
+ - De qué país provienen los usuarios que clickean las publicidades
+  - Parece ser que esa información falta, lo que indicaría un error en la recolección de datos de trocafone, o están imposibilitados a obtener esa información, etc. Esto implica perder la posibilidad de mejorar las publicidades según el país
+  - Tal vez se pueda analizar con los usuarios más activos, ver si tienen algún otro evento y ver de qué país viene.
+ - Analizar de qué OS provienen los usuarios que clickean publicidades
+  - Podría ayudar a mejorar la experiencia de estos al clickear esas publicidades
+  - Ver cómo sería una publicidad de trocafone en esos sistemas operativos
