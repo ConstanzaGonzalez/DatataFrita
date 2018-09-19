@@ -2,7 +2,7 @@ Busqueda de datos
 
 - Top de compras (Gonza)
     - storage vs compra  
-    - color vs comparas
+    - color vs compras
    
 - Top de sitio web utilizado (Coty)
     - Nuevos usuarios(new vs returning) que se registraron por una campaña de marketing 
@@ -18,7 +18,7 @@ Busqueda de datos
 - Time line con el color (Analisis del mercado en un año X que sale un color, ver ventas)
 - Evento vs operating system version/browser version
 - Cuantos usuarios volvieron a la pagina(nuevos eventos)
-- Nuevos usuarios  dia/region/pais/ciudad
+- Nuevos usuarios  dia/region/pais/ciudad (Gonza)
 - Uso promedio de la pagina (tiempos de eventos)
 - Search term mas usados
     - Termino de busqueda vs skus
