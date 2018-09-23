@@ -1,0 +1,46 @@
+Busqueda de datos
+
+- Top de compras (Gonza)
+    - storage vs compra  
+    - color vs compras
+   
+- Top de sitio web utilizado (Coty)
+    - Nuevos usuarios(new vs returning) que se registraron por una campaña de marketing 
+    - Evento y campaña de maketing. ver si el evento se realizo por alguna campaña de marketing
+ 
+- Hora pico del uso de la pagina mensualmente/semanalmente(Pablo y Tomi)
+    - fechas de uso, si tienen que ver con algún tipo de  evento importante (promocion, regalo de 100 celus)
+- Cantidad de compras por dia por usuario (Pablo y Tomi)
+
+- Storage/color/evento/modelo vs region/pais/ciudad/general
+- Top sistema operativo (android, iphone, etc)   
+- Top de regiones/ciudad/pais con los distintos tipos de skus (Flasheando mapa con circunferencias de utilidad de la pagina)
+- Time line con el color (Analisis del mercado en un año X que sale un color, ver ventas)
+- Evento vs operating system version/browser version
+- Cuantos usuarios volvieron a la pagina(nuevos eventos)
+- Nuevos usuarios  dia/region/pais/ciudad (Gonza)
+- Uso promedio de la pagina (tiempos de eventos)
+- Search term mas usados
+    - Termino de busqueda vs skus
+    - Termino de busqueda segun las ciudad/region/pais
+- La cantidad de clientes repetidas, si este vuelve a comprar
+- Relacion evento con modelo (eje hay mas motorolas vendidos/vistos que comprados)
+- Relacion browser con modelo (Pensar bien el ejemplo)
+
+(Tomy)
+- De las consignas, ¿Identificaron patrones o funnels de usuarios que realizan checkouts/conversiones en Trocafone?
+  - ¿Se comportan de forma distinta dependiendo del tipo de dispositivo desde el cual acceden?
+  - ¿Se comportan de forma distinta dependiendo del tipo de fuente de tráfico al que pertenecen
+- Analisis sobre publicidades
+  - /vender (sólo Brasil)
+    - Qué es lo que más venden
+    - Analizar usuarios que venden (qué modelos, cuanto, etc.)
+  - /comprar
+    - Qué modelos son más interesantes
+    - Si se tiene el timestamp, analizar la relación entre el tiempo en el que salió el nuevo modelo y la cantidad de gente/cuanto tardan en clickearlo
+  - De qué país provienen los usuarios que clickean las publicidades
+    - Parece ser que esa información falta, lo que indicaría un error en la recolección de datos de trocafone, o están imposibilitados a obtener esa información, etc. Esto implica perder la posibilidad de mejorar las publicidades según el país
+    - Tal vez se pueda analizar con los usuarios más activos, ver si tienen algún otro evento y ver de qué país viene.
+  - Analizar de qué OS provienen los usuarios que clickean publicidades
+    - Podría ayudar a mejorar la experiencia de estos al clickear esas publicidades
+    - Ver cómo sería una publicidad de trocafone en esos sistemas operativos
